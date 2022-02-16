@@ -1,1 +1,2 @@
-# simple_chaincode
+# Reqst
+request for comment...a python programme Afrique2...
